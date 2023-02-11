@@ -1,3 +1,22 @@
 /*
 Styles for class id selectors
 */
+
+.odd-number {
+  background-color: #ffcccb;
+  font-family: Verdana, "DejaVu Suns", sans-serif;
+}
+
+.cooler-number {
+  font-size: 24px;
+}
+
+#one-id {
+  color: blue;
+  font-size: 36px;
+}
+
+#another-id {
+  background-color: lightgreen;
+  font-weight: bold;
+}
